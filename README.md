@@ -94,7 +94,7 @@ mindset:   Keep domain logic separate from the UI. Let the lies live in data.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kkmia417&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kkmia417&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkmia417&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
 
 <br/>
