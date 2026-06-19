@@ -6,7 +6,7 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=kkmia417&fontColor=ffffff&fontSize=70&fontAlignY=35&desc=Game%20Developer%20·%20Unity%20·%20C%23&descAlignY=58&descSize=18" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=417&fontColor=ffffff&fontSize=70&fontAlignY=35&desc=Game%20Developer%20·%20Unity%20·%20C%23&descAlignY=58&descSize=18" alt="banner" />
 
 <!-- Typing animation -->
 <a href="https://github.com/kkmia417">
