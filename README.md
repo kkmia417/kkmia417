@@ -18,7 +18,7 @@
 ## 🎮 About Me
 
 ```yaml
-name:      kkmia417
+name:      417
 role:      Game Developer
 focus:     Asymmetric multiplayer · Gameplay systems · Clean architecture
 ```
