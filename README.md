@@ -15,49 +15,13 @@
 
 </div>
 
----
-
-```
-                  D U A L   O P S   ::   TWO GIRLS, ONE TRUTH
-
-         THE SPY  (sees TRUTH)            THE HACKER  (decodes LIES)
-
-             .-~~~~~~-.                         .--._.--._.--.
-           .'_/      \_'.                      ( twin    tails )
-          /  ((  ))  ((  ))                   .='~~~~~~~~~~~~'=.
-         |  ( beret  )    |                  | .------------. |
-         |   '------'     |                 ||  o        o  ||      < big
-         |  [==]==[==]    |   < shades      ||      <       ||        eyes
-         |        <       |                 ||    \ >w< /   ||
-          \      \__/     /                 ||     '----'   ||
-           \    '~~~~'   /                   '.____________.'
-            '.        .'                       \   |    |   /
-           .--'\______/'--.                     \  0101 1 /
-          /  *  spy  *  *  \                    /==--------==\
-         /__________________\                  | [ <_> ] hax |
-            TRUTH UNLOCKED                      \____________/
-                                                   LIES DECODED
-
-       >> LieFilter active · AlarmTier: [#---] · status: OK
-```
-
----
-
 ## 🎮 About Me
 
 ```yaml
 name:      kkmia417
 role:      Game Developer
 focus:     Asymmetric multiplayer · Gameplay systems · Clean architecture
-current:   "DUAL OPS" — a two-player asymmetric online spy game (Unity)
-mindset:   Keep domain logic separate from the UI. Let the lies live in data.
 ```
-
-- 🕹️ I build **asymmetric multiplayer experiences** where two players see different worlds.
-- 🧩 I care about **clean domain architecture** — truth lives in the domain, the UI only sees filtered intel.
-- 🌱 Always leveling up in **Unity, networking (NGO), and game design**.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -102,18 +66,6 @@ mindset:   Keep domain logic separate from the UI. Let the lies live in data.
 <img src="https://streak-stats.demolab.com?user=kkmia417&theme=tokyonight&hide_border=true" alt="streak" />
 
 </div>
-
----
-
-## 🚀 Featured Project
-
-### 🕵️ DUAL OPS
-> A two-player asymmetric online spy game built with Unity.
-> **Spy** and **Hacker** see different information — the Hacker's UI may contain lies, and
-> only local observation reveals the truth. Wrong moves raise the **AlarmTier** instead of
-> instantly failing the mission.
-
-`Unity` · `C#` · `Netcode for GameObjects` · `Clean Architecture`
 
 ---
 
